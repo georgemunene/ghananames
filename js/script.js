@@ -27,7 +27,7 @@ function day () {
   
     else if(document.getElementById('male').checked && dayWeek == 3){
       alert('You are Male.Your Akan name is Kwaku');
-      document.getElementById("d").innerHTML = "Your Ghanian day is : " + dayWeek;
+     // document.getElementById("d").innerHTML = "Your Ghanian day is : " + dayWeek;
     }
   
     else if(document.getElementById('male').checked && dayWeek == 4 ){
