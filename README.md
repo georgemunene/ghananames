@@ -19,9 +19,12 @@ This webapp is free and open to the general public.
 ###### Author(s) information.
 
 ###### BDD
-This project begins with the html section,where the structure is laid out.Javascript then follows to add more functionality.Fi
+This project begins with the html section,where the structure is laid out.Javascript then follows to add more functionality.
 
 ###### Technologies used.
+HTML,CSS and JAVASCRIPT are the main technologies used.
 
-Contact information.
+##### Contact information.
+Kindly contact me through my github @georgemunene
+
 License and Copyright information
