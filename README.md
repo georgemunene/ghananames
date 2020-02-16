@@ -13,12 +13,12 @@ Since this is a web application, all you need is a browser and a computing devic
 #### Links to Github Pages
 https://georgemunene.github.io/ghananames
 
-##### License and Copyright information
+#### License and Copyright information
 This webapp is free and open to the general public.
 
-###### Author(s) information.
+#### Author(s) information.
 
-###### BDD
+#### BDD
 This project begins with the html section,where the structure is laid out.Javascript then follows to add more functionality.
 
 ###### Technologies used.
