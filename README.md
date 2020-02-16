@@ -16,10 +16,12 @@ https://georgemunene.github.io/ghananames
 ##### License
 This webapp is free and open to the general public.
 
-##### Author(s) information.
+###### Author(s) information.
 
-##### BDD
-This project begins with the html section,where the structure is laid out.
-Technologies used.
+###### BDD
+This project begins with the html section,where the structure is laid out.Javascript then follows 
+
+###### Technologies used.
+
 Contact information.
 License and Copyright information
