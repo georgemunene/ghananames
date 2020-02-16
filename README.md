@@ -26,5 +26,4 @@ HTML,CSS and JAVASCRIPT are the main technologies used.
 
 ##### Contact information.
 Kindly contact me through my github @georgemunene
- ] 
-License and Copyright information
+ 
