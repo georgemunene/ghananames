@@ -17,8 +17,9 @@ https://georgemunene.github.io/ghananames
 This webapp is free and open to the general public.
 
 ##### Author(s) information.
-Setup instructions - includes any scripts that need to be run if necessary.
-BDD.
+
+##### BDD
+This project begins with the html section,where the structure is laid out.
 Technologies used.
 Contact information.
 License and Copyright information
