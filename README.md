@@ -13,7 +13,7 @@ Since this is a web application, all you need is a browser and a computing devic
 #### Links to Github Pages
 https://georgemunene.github.io/ghananames
 
-##### License
+##### License and Copyright information
 This webapp is free and open to the general public.
 
 ###### Author(s) information.
