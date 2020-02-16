@@ -2,7 +2,7 @@
 This is a fun web application usable to know one Akan name.
 
 ## Authors
-georgemunene
+georgemunene.
 
 ### About
 This web application is inspired by the Akan from WEST OF AFRICA.It will print your Akan name according to your birthday.
