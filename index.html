@@ -3,14 +3,18 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <script type="text/javascript" src="js/script.js"></script>
     <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
-    <title></title>
+    <title>AkanNames</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
   </head>
   <body>
+
+    
     <div class="container">
       <div class="jumbotron">
         <h1>BEING GHANIAN FOR A MINUTE</h1>
-          <p>Kindly input your date of birth followed by your Gender</p>
+          <p>Kindly input your date of birth followed by your Gender.<br></p>
       </div>
       <div class="card">
         <div class="card-title">
@@ -18,12 +22,49 @@
         
         </div>
         <div class="card-body">
-          <p>try</p>
-          <p>try</p>
-          <p>try</p>
-          <p>try</p>
-          <p>try</p>
-          <p>try</p>
+          <p>
+            The Akan people of Ghana name their children according to the day of the week they were born.<br>
+            These names have have other meanings concerning the character of the person plus other things.This naming<br>
+            procedure is practiced thoroughout West Africa and overseas.Kofi Anan is just one of the many from the West<br>
+             of Africa whose name was as a result of this convention.<br>
+            Now it is your turn to discover what name you would have been given, were you from the West of Africa.<br>
+            
+            
+            <strong>Kindly Enter the Century you were born in.<br>
+            For Example, a person whose birthday is 1950 is from the 19th century.<br>
+            </strong>
+            
+            <i>Enter the Year of birth,<br>
+            Followed by the month and the Day.</i><br>
+            Good Luck<br>
+          </p>
+          <form>
+            <h4>GHANA NAMES TELLER</h4>
+            <input id="male" type="radio" name="gender" value="male"> Male<br>
+            <br />
+            <br />
+            <input id="female" type="radio" name="gender" value="female"> Female<br>
+            <br />
+            <br />
+            <input id="cc" type="text" placeholder="Enter Your Century " />
+            <br />
+            <br />
+            <input id="yy" type="text" placeholder="Enter Year Digits" />
+            <br />
+            <br />
+            <input id="mm" type="text" placeholder="Enter the Day of the Month" />
+            <br />
+            <br />
+            <input id="dd" type="text" placeholder="Enter the Month" />
+            <br />
+            <br />
+            
+            <input class = "submit" type="button"  value="Submit" onclick="day()" />
+            <br />
+            <br />
+            
+        </form>
+         
 
 
         </div>
