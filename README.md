@@ -19,7 +19,7 @@ This webapp is free and open to the general public.
 ###### Author(s) information.
 
 ###### BDD
-This project begins with the html section,where the structure is laid out.Javascript then follows 
+This project begins with the html section,where the structure is laid out.Javascript then follows to add more functionality.Fi
 
 ###### Technologies used.
 
