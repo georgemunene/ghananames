@@ -32,17 +32,17 @@ function day () {
   
     else if(document.getElementById('male').checked && dayWeek == 4 ){
       alert('You are Male.Your Akan name is Yaw');
-      document.getElementById("d").innerHTML = "Your Ghanian day is : " + dayWeek;
+      //document.getElementById("d").innerHTML = "Your Ghanian day is : " + dayWeek;
     }
   
     else if(document.getElementById('male').checked && dayWeek == 5 ){
       alert('You are Male.Your Akan name is Kofi');
-      document.getElementById("d").innerHTML = "Your Ghanian day is : " + dayWeek;
+      //document.getElementById("d").innerHTML = "Your Ghanian day is : " + dayWeek;
     }
   
     else if(document.getElementById('male').checked && dayWeek == 6 ){
       alert('You are Male.Your Akan name is Kwame');
-      document.getElementById("d").innerHTML = "Your Ghanian day is : " + dayWeek;
+      //document.getElementById("d").innerHTML = "Your Ghanian day is : " + dayWeek;
     }
   
     // else if(document.getElementById('male').checked && dayWeek == 6 ){
