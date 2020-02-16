@@ -17,6 +17,7 @@ https://georgemunene.github.io/ghananames
 This webapp is free and open to the general public.
 
 #### Author(s) information.
+My name is George Munene, a beginner Software Developer.
 
 #### BDD
 This project begins with the html section,where the structure is laid out.Javascript then follows to add more functionality.
