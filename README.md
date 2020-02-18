@@ -26,5 +26,4 @@ This project begins with the html section,where the structure is laid out.Javasc
 HTML,CSS and JAVASCRIPT are the main technologies used.
 
 #### Contact information.
-Kindly contact me through my github @georgemunene
- 
+Kindly contact me through my github @georgemunene or email kengeorge010@gmail.com
