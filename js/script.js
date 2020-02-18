@@ -85,5 +85,8 @@ function day () {
       document.getElementById("d").innerHTML = "Your Akan day is : " + dayWeek;
     }
 
+    else {
+    alert('Kindly enter the Details as Requested.Begin with your gender followed by you date of birth');
+}
 
   }
